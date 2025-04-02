@@ -105,16 +105,16 @@ I’m a **lazy yet efficient coder** – always finding the smartest way to get 
 <div align="center">
 <h1> 📫 How to Reach Me </h1>  
 
-<a href="mailto:manitejagaddam1@gmail.com" target="_blank">
+<a href="mailto:abhinavnalasani@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 10px; height: 50px; border-radius: 10px;">
 </a>
-<a href="https://www.linkedin.com/in/maniteja-gaddam-354345245/" target="_blank">
+<a href="https://https://www.linkedin.com/in/abhinavnalasani/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 10px; height: 50px; border-radius: 10px;">
 </a>  
-<a href="https://leetcode.com/u/Maniteja_Gaddam/" target="_blank">
+<a href="https://leetcode.com/u/abhinavnalasani/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="margin: 10px; height: 50px; border-radius: 10px;">
 </a>  
-<a href="https://www.naukri.com/code360/profile/ManitejaGaddam" target="_blank">
+<a href="https://www.naukri.com/code360/profile/abhinavnalasani" target="_blank">
     <img src="https://img.shields.io/badge/Code360-00BFFF?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Code360" style="margin: 10px; height: 50px; border-radius: 10px;">
 </a>  
 
