@@ -55,12 +55,10 @@ I’m a **designer-developer hybrid** – blending aesthetics with functionality
   <div style="flex: 1; text-align: center; padding: 20px; background-color: #f8f9fa; border-radius: 12px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
     <h3 style="font-size: 1.5rem; color: #333; margin-bottom: 20px;">Languages</h3>
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
-      <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
     </div>
   </div>
 
@@ -68,15 +66,10 @@ I’m a **designer-developer hybrid** – blending aesthetics with functionality
   <div style="flex: 1; text-align: center; padding: 20px; background-color: #f8f9fa; border-radius: 12px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
     <h3 style="font-size: 1.5rem; color: #333; margin-bottom: 20px;">Frameworks</h3>
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
-      <img src="https://img.shields.io/badge/Yolo-v8%20-black?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLOv8" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
-      <img src="https://img.shields.io/badge/AR/VR-000000?style=for-the-badge&logo=virtual-reality&logoColor=white" alt="AR/VR" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
     </div>
   </div>
 
@@ -84,15 +77,19 @@ I’m a **designer-developer hybrid** – blending aesthetics with functionality
   <div style="flex: 1; text-align: center; padding: 20px; background-color: #f8f9fa; border-radius: 12px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
     <h3 style="font-size: 1.5rem; color: #333; margin-bottom: 20px;">Tools</h3>
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
-      <img src="https://img.shields.io/badge/Git-FFF?style=for-the-badge&logo=git&logoColor=black" alt="Git" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
-      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
+      <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
+      <img src="https://img.shields.io/badge/Rive-FFFFFF?style=for-the-badge&logo=rive&logoColor=black" alt="Rive" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
+      <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
+      <img src="https://img.shields.io/badge/FlutterFlow-7A42F4?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterFlow" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
+      <img src="https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white" alt="Wix" style="border-radius: 8px; width: 6rem; height: 3.5rem; object-fit: contain;">
     </div>
-  </div><br/>
+  </div>
+</div>
+
 
   <h2>Most Languages Used</h2>
 
