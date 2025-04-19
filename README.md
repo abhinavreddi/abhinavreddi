@@ -120,7 +120,8 @@ I’m a **designer-developer hybrid** – blending aesthetics with functionality
   <a href="https://www.behance.net/abhiabnalasan" target="_blank">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" style="margin: 10px; height: 50px; border-radius: 10px;">
   </a>  
-</div>
+
 
 ![GradientLine](https://github.com/user-attachments/assets/6ea2c35e-1349-4ced-bfd5-89d6ca0929ba)
+</div>
 </div>
