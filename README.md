@@ -15,33 +15,36 @@ Here’s a snapshot of my recent GitHub activity:
 
 </div>
 
-
 ### 👀 Interests  
-I'm passionate about **Machine Learning**, **Deep Learning**, **LLMs**, and **Generative AI**.  
-- 🧠 Exploring how AI and neural networks can solve real-world problems.  
-- 🌐 Curious about advancements in Natural Language Processing and Computer Vision.  
-- 🔍 Interested in using **AI** for ethical and impactful applications.
+I'm passionate about **Flutter Development**, **UI/UX Design**, **Graphic Design**, and **Traveling**.  
+- 📱 Love building beautiful, high-performance apps using Flutter.  
+- 🎨 Passionate about creating eye-catching logos and impactful branding.  
+- 🧠 Obsessed with crafting smooth and intuitive user experiences.  
+- ✈️ Always up for exploring new places and cultures — travel fuels my creativity!  
+- 🛠️ Enjoy experimenting with new design tools and frameworks.  
+- 🔍 Constantly curious about the intersection of design and technology.
 
 ### 🌱 Currently Learning  
-- 📚 **Generative AI**: Working on creative AI models for text, image, and video generation.  
-- 💻 **MERN Stack**: Building user-friendly, full-stack web applications from scratch.  
-- ⚙️ Diving deeper into **DevOps** and **Cloud Computing** tools.  
-- 🏗 **DSA**: Solving daily problems to strengthen my algorithmic skills.
+- 📲 **Advanced Flutter**: Exploring animations, custom widgets, and state management.  
+- 🧩 **UI/UX Principles**: Sharpening wireframing, prototyping, and usability testing.  
+- 💼 **Freelance Branding Projects**: Designing logos and graphics for real clients.  
+- 🧳 **Travel Vlogging**: Capturing experiences and stories through visuals.  
 
 ### 💞️ Collaboration Opportunities  
 I'm looking to collaborate on:  
-- 📊 **Data Science Projects**: Harnessing data for actionable insights.  
-- 🌐 **Web Development**: Creating responsive, scalable web solutions.  
-- 🤖 **AI and ML Projects**: Bringing innovative ideas to life through machine learning.  
-- 🛠️ Open-source projects: Let's build something amazing together!
+- 📱 **Mobile App Projects**: Let’s build beautiful apps with Flutter.  
+- 🎨 **Branding & Logo Design**: Helping brands visually stand out.  
+- 🧪 **UI/UX Projects**: Creating intuitive, user-centered designs.  
+- ✈️ Travel-tech ideas: Combining tech and wanderlust in creative ways.  
 
 ### ⚡ Fun Fact  
-I’m a **lazy yet efficient coder** – always finding the smartest way to get things done!  
-- 🧩 Love solving puzzles and optimizing workflows.  
-- 🎮 Avid gamer and a fan of strategy games.  
-- 📖 Lifelong learner, constantly curious about new trends in tech.
+I’m a **designer-developer hybrid** – blending aesthetics with functionality.  
+- 🎯 Detail-oriented yet always keeping the big picture in mind.  
+- 🧳 My dream is to travel the world while building cool digital products.  
+- 🌈 Believe that good design isn’t just seen — it’s felt.
 
 ---
+
 
 
 ## Tools And Frameworks
