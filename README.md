@@ -103,20 +103,24 @@ I’m a **designer-developer hybrid** – blending aesthetics with functionality
 
 
 <div align="center">
-<h1> 📫 How to Reach Me </h1>  
+  <h1> 📫 How to Reach Me </h1>  
 
-<a href="mailto:abhinavnalasani@gmail.com" target="_blank">
+  <a href="mailto:abhinavnalasani@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 10px; height: 50px; border-radius: 10px;">
-</a>
-<a href="https://https://www.linkedin.com/in/abhinavnalasani/" target="_blank">
+  </a>
+
+  <a href="https://www.linkedin.com/in/abhinavnalasani/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 10px; height: 50px; border-radius: 10px;">
-</a>  
-<a href="https://leetcode.com/u/abhinavnalasani/" target="_blank">
+  </a>  
+
+  <a href="https://leetcode.com/u/abhinavnalasani/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="margin: 10px; height: 50px; border-radius: 10px;">
-</a>  
-<a href="https://www.naukri.com/code360/profile/abhinavnalasani" target="_blank">
-    <img src="https://img.shields.io/badge/Code360-00BFFF?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Code360" style="margin: 10px; height: 50px; border-radius: 10px;">
-</a>  
+  </a>  
+
+  <a href="https://www.behance.net/abhiabnalasan" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" style="margin: 10px; height: 50px; border-radius: 10px;">
+  </a>  
+</div>
 
 ![GradientLine](https://github.com/user-attachments/assets/6ea2c35e-1349-4ced-bfd5-89d6ca0929ba)
 </div>
